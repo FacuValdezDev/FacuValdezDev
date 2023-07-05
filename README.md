@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Facundo Valdez.
 - 👀 I’m interested in learn more about programming.
-- 🌱 I’m currently learning html, css, javascript and react in a course.
+- 🌱 I’m currently learning html, css, javascript and react.
 - 💞️ I’m looking to collaborate on any place that helps me learn.
 
 <!---
